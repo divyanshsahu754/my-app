@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <div>
         <h2>
-          Benifits of using React
+          Trying to update a file
         </h2>
         <p>
          1. Component Based-Architecture
